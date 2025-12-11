@@ -1,4 +1,4 @@
-from database.db_manager import connect_db
+from ativa_esperanca.database.db_manager import connect_db
 
 class User:
     @staticmethod
